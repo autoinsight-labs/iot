@@ -1,0 +1,9 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pillow>=9.0.0
+numpy>=1.21.0
+torch>=1.13.0
+torchvision>=0.14.0
+matplotlib>=3.5.0
+pytesseract>=0.3.10
+easyocr>=1.7.0 
