@@ -118,6 +118,10 @@ Detected plates:
 Plate crops saved to: output/
 ```
 
+#### Exemplo de imagem gerada
+![image](https://github.com/user-attachments/assets/ea1f01a5-5c17-4ae4-8747-131ffb8e166f)
+
+
 #### Processamento em Lote
 ```
 Processing 1/15: moto_001.jpg
